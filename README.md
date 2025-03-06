@@ -1,43 +1,43 @@
-# Template
+# Математическая статистика
 
 ## Installation
 
-0.  **Clone the repository:**
+0.  **Клонирование репозитория:**
 
-    Before you begin, you need to clone the project's source code repository.
+    Перед тем как начать, вам необходимо клонировать репозиторий с исходным кодом проекта.
  
     ```bash
-    git clone https://github.com/UmbrellaLeaf5/template_python_usual.git
+    git clone https://github.com/UmbrellaLeaf5/math_statistics.git
     ```
 
-    Go to the directory where the repository was cloned:
+    Перейдите в директорию, куда был клонирован репозиторий:
 
     ```bash
-    cd template_python_usual
+    cd math_statistics
     ``` 
 
 
-1.  **Creating a virtual environment:**
+1.  **Создание виртуального окружения:**
 
-    Open a terminal or command prompt in the root directory of your project (where the `requirements.txt` file is located) and run the following command to create a virtual environment named `.venv`:
+    Откройте терминал или командную строку в корневой директории вашего проекта (там, где находится файл `requirements.txt`) и выполните следующую команду для создания виртуального окружения с именем `.venv`:
 
     ```bash
     python3 -m venv .venv
     ```
 
-    or
+    или
 
     ```bash
     python -m venv .venv
     ```
 
-    *   If you only have `Python 3` installed, you can use `python` instead of `python3`.
-    *   If the virtual environment already exists (you created it earlier), skip this step.
+    *   Если у вас установлена только версия `Python 3`, можете использовать `python` вместо `python3`.
+    *   Если виртуальное окружение уже существует (вы его создавали ранее), пропустите этот шаг.
 
 
-2.  **Activating the virtual environment:**
+2.  **Активация виртуального окружения:**
 
-    Activate the virtual environment so that `Python` uses the libraries installed inside it:
+    Активируйте виртуальное окружение, чтобы `Python` использовал библиотеки, установленные внутри него:
 
     *   **Linux/macOS:**
 
@@ -57,18 +57,18 @@
         .venv\Scripts\Activate.ps1
         ```
 
-    Once activated, you will see `(.venv)` at the beginning of the terminal line, indicating that the virtual environment is active.
+    После активации вы увидите `(.venv)` в начале строки терминала, указывающее на то, что виртуальное окружение активно.
 
 
-3.  **Installing dependencies from `requirements.txt`:**
+3.  **Установка зависимостей из `requirements.txt`:**
 
-    Install all libraries listed in the `requirements.txt` file by running the following command:
+    Установите все библиотеки, перечисленные в файле `requirements.txt`, выполнив следующую команду:
 
     ```bash
     ./.venv/Scripts/pip install -r requirements.txt
     ```
 
-    or simply:
+    или просто:
 
     ```bash
     pip install -r requirements.txt
