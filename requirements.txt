@@ -1,1 +1,8 @@
 icecream
+ipykernel
+matplotlib
+numpy
+pandas
+rich
+scipy
+seaborn
