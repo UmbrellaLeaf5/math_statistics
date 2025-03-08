@@ -3,7 +3,7 @@
 ## Assignments
 
 ### First
-* [T.1](./assignment_1/task_1.pdf), [T.2](./assignment_1/task_2.ipynb), T.3 (до 09.03.2025; 23::59)
+* [T.1](./assignment_1/task_1.pdf), [T.2](./assignment_1/task_2.ipynb), [T.3](./assignment_1/task_3.pdf) (до 09.03.2025; 23::59)
 
 ### Second
 
