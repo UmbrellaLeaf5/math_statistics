@@ -3,8 +3,9 @@
 ## Assignments
 
 ### First
-* [T.1](./assignment_1/task_1.pdf), [T.2](./assignment_1/task_2.ipynb), [T.3](./assignment_1/task_3.pdf) (до 09.03.2025; 23:59)
-* [T.4](./assignment_1/task_4.pdf), T.5([a, b, c, d, e](./assignment_1/task_5_a_b_c_d_e.pdf), [f, g, h](./assignment_1/task_5_f_g_h.ipynb)), T.6([a, b, c](./assignment_1/task_6_a_b_c.pdf), [d, e, f](./assignment_1/task_6_d_e_f.ipynb)) (до 23.03.2025; 23:59)
+* [T.1](./assignment_1/task_01.pdf), [T.2](./assignment_1/task_02.ipynb), [T.3](./assignment_1/task_03.pdf) (до 09.03.2025; 23:59)
+* [T.4](./assignment_1/task_04.pdf), T.5([a, b, c, d, e](./assignment_1/task_05_a_b_c_d_e.pdf), [f, g, h](./assignment_1/task_05_f_g_h.ipynb)), T.6([a, b, c](./assignment_1/task_06_a_b_c.pdf), [d, e, f](./assignment_1/task_06_d_e_f.ipynb)) (до 23.03.2025; 23:59)
+* [Т.7](./assignment_1/task_07.pdf), [Т.8](./assignment_1/task_08.pdf), [Т.9](./assignment_1/task_09.pdf), Т.10([письм.](./assignment_1/task_10.pdf), [bootstrap](./assignment_1/task_10.ipynb)) (до 30.03.2025; 23:59)
 
 ### Second
 
