@@ -1,6 +1,6 @@
 {
   "cmake.ignoreCMakeListsMissing": true,
-  "jupyter.themeMatplotlibPlots": false,
+  // "jupyter.themeMatplotlibPlots": false,
   "cSpell.words": [
     "bootstrap'овский",
     "boxpolt",
