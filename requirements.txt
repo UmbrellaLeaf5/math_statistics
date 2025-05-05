@@ -4,5 +4,7 @@ matplotlib
 numpy
 pandas
 rich
+scikit-learn
 scipy
 seaborn
+statsmodels
